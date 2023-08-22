@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-
 - 🔭 I’m currently working on becoming a Data Engineer.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on Data Projects.
@@ -10,4 +8,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
