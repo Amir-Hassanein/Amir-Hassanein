@@ -1,5 +1,3 @@
-![cdr](https://github.com/Amir-Hassanein/Amir-Hassanein/assets/33359756/d724069d-debf-4c24-9fb9-dab19618f6dc)
-
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Amir Hassanein!](https://amir-hassanein.github.io/)
 
 ### Senior Mentor, Auditor, and Technical Interview Lead @ Udacity
@@ -24,13 +22,13 @@ I have a Bachelor's degree in Applied Statistics for Business from Helwan Univer
   ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
   ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 - 📊 &nbsp;
-  ![Tableau](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![PowerBI](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![Tableau](https://img.shields.io/badge/tableau-lightblue?style=flat&logo=tableau)
+  ![PowerBI](https://img.shields.io/badge/powerbi-lightyellow?style=flat&logo=powerbi)
 - ⚙️ &nbsp;
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 - 💻 &nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![MacOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+  ![MacOS](https://img.shields.io/badge/macos-black?style=flat&logo=macos)
 
 
 <br/>
