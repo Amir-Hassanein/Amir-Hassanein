@@ -22,13 +22,13 @@ I have a Bachelor's degree in Applied Statistics for Business from Helwan Univer
   ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
   ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 - 📊 &nbsp;
-  ![Tableau](https://img.shields.io/badge/tableau-lightblue?style=flat&logo=tableau)
-  ![PowerBI](https://img.shields.io/badge/powerbi-lightyellow?style=flat&logo=powerbi)
+  ![Tableau](https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau&labelColor=white)
+  ![PowerBI](https://img.shields.io/badge/powerbi-white?style=for-the-badge&logo=powerbi&labelColor=white)
 - ⚙️ &nbsp;
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 - 💻 &nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![MacOS](https://img.shields.io/badge/macos-black?style=flat&logo=macos)
+  ![MacOS](https://img.shields.io/badge/macos-white?style=for-the-badge&logo=macos&labelColor=black)
 
 
 <br/>
