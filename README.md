@@ -1,6 +1,6 @@
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Amir Hassanein!](https://amir-hassanein.github.io/)
 
-### Senior Mentor, Auditor, and Technical Interview Lead @ Udacity
+### Senior Mentor, Auditor, and Technical Interview Lead @ Udacity (Data Science School)
 
 I contribute daily to Udacity's great mission of making people in demand by:
  * Providing our students with Technical Project Reviews.
